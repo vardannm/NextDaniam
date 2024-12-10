@@ -9,7 +9,7 @@ images:{
       hostname: '*',
     }
   ]
-}
+},
 };
 
 export default nextConfig;
